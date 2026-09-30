@@ -1,5 +1,21 @@
 # DTS 211 — Week 1
 
+## 📚 Class Notes
+
+The main class notes for DTS 211 are maintained as a living document and
+updated throughout the semester.
+
+👉 **[Open DTS 211 Class Notes](https://docs.google.com/document/d/11tUGw1TcT3aVlB_L9Zd5AAHYKAWpdmAJ/edit)**
+
+
+The class notes contain the lecture explanations, worked examples,
+illustrations, mathematical concepts, practical guidance, and additional
+learning resources.
+
+Students should always use the linked document as the current version of
+the class notes.
+
+
 ## Getting Started with R and RStudio
 
 ### Week 1 Focus

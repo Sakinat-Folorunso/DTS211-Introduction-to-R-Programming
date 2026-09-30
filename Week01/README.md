@@ -27,3 +27,31 @@ This week introduces students to:
 > Think → Code → Run → Observe → Correct → Explain
 
 Students should create an RStudio Project for DTS 211 and keep their Week 1 work inside the `Week01` folder.
+
+## Computing Environments
+
+DTS 211 supports two RStudio environments:
+
+### Option A — RStudio Desktop
+
+Install R and RStudio on your computer and work locally.
+
+### Option B — Posit Cloud
+
+If you cannot install R locally, use Posit Cloud to work with RStudio in your web browser.
+
+Both environments use the same R code and the same Week 1 practical.
+
+### Posit Cloud
+
+Visit:
+
+https://posit.cloud/
+
+Create a free account, then create an RStudio project.
+
+You can also create a project from the DTS 211 GitHub repository using:
+
+**New Project → New Project from Git Repo**
+
+See the Week 1 Practical Manual for detailed instructions.

@@ -1,0 +1,5 @@
+course;units;level
+DTS211;3;200
+DTS201;3;200
+CSC324;3;300
+SEN201;3;200

@@ -1,0 +1,15 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.Rapp.history
+*.Rcheck/
+
+# Files students' code writes
+output/*
+!output/.gitkeep
+
+# Operating system
+.DS_Store
+Thumbs.db

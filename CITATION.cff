@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use these course materials, please cite them as below."
+title: "DTS 211: Introduction to R Programming, course notes and student scripts"
+type: software
+authors:
+  - family-names: "Folorunso"
+    given-names: "Sakinat"
+    affiliation: "Olabisi Onabanjo University, Ago-Iwoye, Nigeria"
+    email: "sakinat.folorunso@oouagoiwoye.edu.ng"
+repository-code: "https://github.com/Sakinat-Folorunso/DTS211-Introduction-to-R-Programming"
+version: "1.0.0"
+date-released: "2026-11-02"
+keywords:
+  - R programming
+  - data science education
+  - RStudio
+  - course materials

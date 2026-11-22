@@ -86,7 +86,9 @@ Access the complete DTS 211 teaching notes through Google Docs:
 
 Students can use this document as the main reference for weekly lectures, explanations, examples, and practical exercises.
 
-*Note: The document is provided for viewing. Please make a personal copy if you need to annotate it.*
+*Note: The Google Doc is provided for viewing. Please make a personal copy if you need to annotate it.*
+
+Offline copies: [`docs/DTS_211_Introduction_to_R_Programming.docx`](docs/DTS_211_Introduction_to_R_Programming.docx) (Word) and [`docs/DTS211_Master_Note.md`](docs/DTS211_Master_Note.md) (Markdown).
 
 ## For instructors
 

@@ -17,17 +17,6 @@ Email: sakinat.folorunso@oouagoiwoye.edu.ng
 | **Fallback platform** | Posit Cloud (browser-based RStudio) |
 
 
-### Course Teaching Notes
-
-Access the complete DTS 211 teaching notes through Google Docs:
-
-📘 **[DTS 211: Introduction to R Programming – Complete Teaching Notes](https://docs.google.com/document/d/1-CXjlZcq7hpqBVnBkiahCCmk1LqnzJnUwRzUnyCuYbg/edit?tab=t.h5ncap8bpna0)**
-
-Students can use this document as the main reference for weekly lectures, explanations, examples, and practical exercises.
-
-*Note: The document is provided for viewing. Please make a personal copy if you need to annotate it.*
-
-
 ## Start here (students)
 
 ### Option A: RStudio Desktop (recommended)
@@ -89,9 +78,15 @@ Lines marked `EXPECTED ERROR` or `EXPECTED WARNING` are deliberate teaching exam
 └── .github/workflows/    # automatic check on every push
 ```
 
-## Course notes
+### Course Teaching Notes
 
-The complete course outline and the 12-week teaching note (with Week 0) are in [`docs/DTS211_Master_Note.md`](docs/DTS211_Master_Note.md). A Word copy is in [`docs/DTS211_Master_Note.docx`](docs/DTS211_Master_Note.docx).
+Access the complete DTS 211 teaching notes through Google Docs:
+
+📘 **[DTS 211: Introduction to R Programming – Complete Teaching Notes](https://docs.google.com/document/d/1-CXjlZcq7hpqBVnBkiahCCmk1LqnzJnUwRzUnyCuYbg/edit?tab=t.h5ncap8bpna0)**
+
+Students can use this document as the main reference for weekly lectures, explanations, examples, and practical exercises.
+
+*Note: The document is provided for viewing. Please make a personal copy if you need to annotate it.*
 
 ## For instructors
 

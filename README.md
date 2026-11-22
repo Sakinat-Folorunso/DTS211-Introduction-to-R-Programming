@@ -16,6 +16,18 @@ Email: sakinat.folorunso@oouagoiwoye.edu.ng
 | **Primary platform** | RStudio Desktop (R 4.3 or later recommended; R 4.1.0 is the minimum) |
 | **Fallback platform** | Posit Cloud (browser-based RStudio) |
 
+
+### Course Teaching Notes
+
+Access the complete DTS 211 teaching notes through Google Docs:
+
+📘 **[DTS 211: Introduction to R Programming – Complete Teaching Notes](https://docs.google.com/document/d/1-CXjlZcq7hpqBVnBkiahCCmk1LqnzJnUwRzUnyCuYbg/edit?tab=t.h5ncap8bpna0)**
+
+Students can use this document as the main reference for weekly lectures, explanations, examples, and practical exercises.
+
+*Note: The document is provided for viewing. Please make a personal copy if you need to annotate it.*
+
+
 ## Start here (students)
 
 ### Option A: RStudio Desktop (recommended)

@@ -1,0 +1,11 @@
+"respondent_id","programme","study_hours","sleep_hours","satisfaction"
+"R01","Computer Science",12,7,4
+"R02","computer science",8,6,5
+"R03","Statistics",15,8,3
+"R04","Statistics ",,5,4
+"R05","Mathematics",6,,2
+"R06","Data Science",20,6,5
+"R07","data science",18,7,5
+"R08","Mathematics",9,7,
+"R09","Computer Science",-2,8,3
+"R10","Statistics",11,6,4
